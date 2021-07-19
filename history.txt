@@ -1,0 +1,16 @@
+  995  cat feladat
+  996  history
+  997  history -a
+  998  history
+  999  cat history > history
+ 1000  ls
+ 1001  history
+ 1002  pwd
+ 1003  ls
+ 1004  cd Desktop
+ 1005  ls
+ 1006  cd Vizsga
+ 1007  ls
+ 1008  touch .bash_history
+ 1009  ls
+ 1010  history
